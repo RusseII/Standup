@@ -4230,10 +4230,10 @@ react-telegram-login@^1.1.2:
   dependencies:
     react "^16.13.1"
 
-react-time-ago@^7.3.1:
-  version "7.3.1"
-  resolved "https://registry.yarnpkg.com/react-time-ago/-/react-time-ago-7.3.1.tgz#c7c7eb16590e0734b96ca58ecca5854e892140aa"
-  integrity sha512-c6QKSRrnIhZiEbOa2PXdh1InNYpqX3wwXA0fuOFX4r/C2hdt5hNvjvKXbKbGWXAeumMi9DoS3oGPboEpgccnOQ==
+react-time-ago@^7.3.3:
+  version "7.3.3"
+  resolved "https://registry.yarnpkg.com/react-time-ago/-/react-time-ago-7.3.3.tgz#d6344c6397eef5cfed1554545fb9daf5742f16df"
+  integrity sha512-5kh2Kuu/UhHzcZrGvf3GUrF2d+IXjkIXif5MR2iDWIfSqQuBW27/ejN/tmzJBRyPiryYTgbDIG6AZFJ4RW3yfw==
   dependencies:
     memoize-one "^6.0.0"
     prop-types "^15.8.1"
