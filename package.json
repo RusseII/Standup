@@ -18,7 +18,7 @@
     "@geist-ui/react-icons": "^1.0.1",
     "@prisma/client": "^5.16.2",
     "@vercel/analytics": "^1.2.2",
-    "@vercel/node": "^3.0.24",
+    "@vercel/node": "^3.2.2",
     "big-integer": "^1.6.52",
     "fast-memoize": "^2.5.2",
     "javascript-time-ago": "^2.5.10",
