@@ -31,7 +31,7 @@
     "react-dom": "18.2.0",
     "react-markdown": "^9.0.1",
     "react-telegram-login": "^1.1.2",
-    "react-time-ago": "^7.3.1",
+    "react-time-ago": "^7.3.3",
     "remark-gfm": "^4.0.0",
     "swr": "^2.2.5",
     "telegram": "^2.20.2",
