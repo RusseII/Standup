@@ -4855,10 +4855,10 @@ tar@^6.1.11:
   dependencies:
     lodash "^4.17.15"
 
-telegram@^2.20.2:
-  version "2.20.2"
-  resolved "https://registry.yarnpkg.com/telegram/-/telegram-2.20.2.tgz#5b1668d9475b7e1ad5ec77ac85f697f27dd5161a"
-  integrity sha512-pvJ9tjyTRkQqQS0efkOOzLzCpgNBrtLu/FduzFpXocSZ/ivDDPNJt1B8yDwWicGK2GVLjEUgsmp9fPTScwFA1g==
+telegram@^2.22.2:
+  version "2.23.2"
+  resolved "https://registry.yarnpkg.com/telegram/-/telegram-2.23.2.tgz#016918a3b0a88019b029763ba686103d354bd68b"
+  integrity sha512-tAZ5618ljT/D6IebEr1SR17PfwoUQH/cbfZpG4ASup0Uvtc/VYI8yvZ21YSvb4ozLnPrvDXuBIq7jCsDEYC1CA==
   dependencies:
     "@cryptography/aes" "^0.1.1"
     async-mutex "^0.3.0"
