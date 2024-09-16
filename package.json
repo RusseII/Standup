@@ -34,7 +34,7 @@
     "react-time-ago": "^7.3.3",
     "remark-gfm": "^4.0.0",
     "swr": "^2.2.5",
-    "telegram": "^2.23.10",
+    "telegram": "^2.25.1",
     "telegram-text-entities-filler": "https://github.com/alwaysbegrowing/telegram-text-entities-filler",
     "time-until": "^1.0.0"
   },
